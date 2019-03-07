@@ -23,8 +23,8 @@ marcarGolVisitante(){
     });
 }
     render() {
-   const {  partida, casa ,visitante } = this.props,
-   const style ={float:"left", "marginRight": "20px"},
+   const {  partida, casa ,visitante } = this.props;
+   const style ={float:"left", "marginRight": "20px"};
         return (
             <div>
 
